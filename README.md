@@ -6,7 +6,6 @@ Started Computer Engineering Education at İnönü University in 2016. He receiv
 
 After his undergraduate studies, he is considering pursuing a master's degree in software and business management in the United States. After university life, he wants to specialize in web languages such as HTML, CSS, JavaScript and produce quality work in mobile software languages such as Ionic,Flutter. 
 
-<hr>
 
 ## Contact Me
 
