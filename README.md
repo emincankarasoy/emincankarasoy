@@ -55,7 +55,7 @@ I'm working as a Software Developer at [EUTEK](http://www.eutek.com.tr)
 
 ## Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/burak-boz-50bb72163/)
+[![Linkedin Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emincankarasoy/)
 
 
 ![Emincan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emincankarasoy&show_icons=true)
