@@ -6,52 +6,7 @@ Started Computer Engineering Education at İnönü University in 2016. He receiv
 
 After his undergraduate studies, he is considering pursuing a master's degree in software and business management in the United States. After university life, he wants to specialize in web languages such as HTML, CSS, JavaScript and produce quality work in mobile software languages such as Ionic,Flutter. 
 
-
-## Job
-
-I'm working as a Software Developer at [EUTEK](http://www.eutek.com.tr)
-
-
-## Know / Using
-<p>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/csharp/csharp.png?raw=true">
-        <img src="https://github.com/github/explore/raw/master/topics/csharp/csharp.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/dotnet/dotnet.png?raw=true">
-        <img src="https://github.com/github/explore/raw/master/topics/dotnet/dotnet.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true">
-        <img src="https://github.com/github/explore/raw/master/topics/visual-studio-code/visual-studio-code.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/html/html.png?raw=true">
-        <img src="https://github.com/github/explore/blob/master/topics/html/html.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/css/css.png?raw=true">
-        <img src="https://github.com/github/explore/raw/master/topics/css/css.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true">
-        <img src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png?raw=true">
-        <img src="https://github.com/github/explore/raw/master/topics/bootstrap/bootstrap.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/jquery/jquery.png?raw=true">
-        <img src="https://github.com/github/explore/blob/master/topics/jquery/jquery.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true">
-        <img src="https://github.com/github/explore/raw/master/topics/github/github.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/sass/sass.png?raw=true">
-        <img src="https://github.com/github/explore/raw/master/topics/sass/sass.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/sql-server/sql-server.png?raw=true">
-        <img src="https://github.com/github/explore/blob/master/topics/sql-server/sql-server.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true">
-        <img src="https://github.com/github/explore/blob/master/topics/angular/angular.png?raw=true" height="32" style="max-width: 100%;" />
-    </a>
-</p>
-
+<hr>
 
 ## Contact Me
 
