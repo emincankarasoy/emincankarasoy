@@ -7,8 +7,8 @@ Started Computer Engineering Education at Inonu University in 2016. He received 
 
 ## Contact Me
 
-[![Instagram Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/emincankarasoy)
-[![Linkedin Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emincankarasoy/)
+[![Linkedin Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emincankarasoy/)<br>
+[![Instagram Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/emincankarasoy/)<br>
 [![Stack Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20stackoverflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/15204920/emincan-karasoy?tab=profi)
 
 ## Github Statistics
