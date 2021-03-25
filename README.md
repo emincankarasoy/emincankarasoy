@@ -10,6 +10,9 @@ Started Computer Engineering Education at Inonu University in 2016. He received 
 [![Linkedin Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emincankarasoy/)
 
 
+## Github Statistics
+
+
 ![Emincan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emincankarasoy&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emincankarasoy&layout=compact)](https://github.com/emincankarasoy)
