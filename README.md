@@ -19,6 +19,5 @@ Emincan Karasoy is a computer engineering student who develops himself in softwa
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emincankarasoy&label=Visitors&color=0e75b6&style=flat" alt="emincankarasoy" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emincankarasoy&show_icons=true&locale=en" alt="emincankarasoy" /></p>
 
 
