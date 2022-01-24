@@ -13,7 +13,7 @@ Emincan Karasoy is a computer engineering student who develops himself in softwa
 
 ![Emincan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emincankarasoy&show_icons=true)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emincankarasoy&color=red&background-color=transparent" alt="emincankarasoy"/></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emincankarasoy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&border=23F7FF&stroke=23F7FF&ring=23F7FF&fire=23F7FF&currStreakLabel=23F7FF)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emincankarasoy&label=Visitors&color=0e75b6&style=flat" alt="emincankarasoy" /> </p>
 
