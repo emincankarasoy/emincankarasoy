@@ -4,9 +4,9 @@ Emincan Karasoy is a computer engineering student who develops himself in softwa
 
 ## Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emincankarasoy/)<br>
-[![Instagram Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/emincankarasoy/)<br>
-[![Stack Badge](https://img.shields.io/badge/emincankarasoy-follow%20on%20stackoverflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/15204920/emincan-karasoy?tab=profi)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emincankarasoy/)<br>
+[![Instagram Badge](https://img.shields.io/badge/instagram-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/emincankarasoy/)<br>
+[![Stack Badge](https://img.shields.io/badge/stackoverflow-gray?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/15204920/emincan-karasoy?tab=profi)
 
 ## Github Statistics
 
