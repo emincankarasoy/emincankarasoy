@@ -2,14 +2,34 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<p align="left">
+I am currently studying for a bachelor's degree in computer engineering and developing myself in Android Development. In my spare time I am trying to learn new things about Distributed Systems and API Development.
+</p>
 
-Emincan Karasoy is a computer engineering student who develops himself in software technologies, follows these technologies closely and is open to innovations. He is a creative, determined, motivated and extremely energetic person with a passion for creating real results on his own and with those around him.
+<p align="left">
+So far I have developed many small and medium Android Projects and shared some of them on my github account. I have also participated in many software development competitions (eg Google People&Peace Hackathon).
+</p>
 
-## Contact Me
+<p align="left">
+If you want to take a look at my work, you can find the links below:
+</p>
+  
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emincankarasoy/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-gray?style=for-the-badge&logo=instagram)](https://www.instagram.com/emincankarasoy/)
-[![Stack Badge](https://img.shields.io/badge/stackoverflow-gray?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/15204920/emincan-karasoy?tab=profi)
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logo=linkedin" /></a>
+
+  <a href="#" alt="Stackoverflow">
+  <img src="https://img.shields.io/badge/stackoverflow-gray?style=for-the-badge&logo=stackoverflow"/></a>
+
+  <a href="#" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
 ## Github Statistics
 
