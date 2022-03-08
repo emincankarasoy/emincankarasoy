@@ -2,6 +2,7 @@
 
 <img src="https://i.hizliresim.com/4f6o5hb.png" min-width="100px" max-width="300px" height="250px" align="right" alt="Computador iuriCode">
 
+<br>
 <p align="left">
 Learn for a better future!
 </p>
@@ -18,6 +19,7 @@ So far I have developed many small and medium Android Projects and shared some o
 If you want to know more about me, you can find the links below:
 </p>
   
+<br>  
 <p align="left">
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logo=linkedin" /></a>
