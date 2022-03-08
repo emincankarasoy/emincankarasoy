@@ -1,6 +1,6 @@
 ## About Me
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://i.hizliresim.com/4f6o5hb.png" min-width="100px" max-width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left">
 I am currently studying for a bachelor's degree in computer engineering and developing myself in Android Development. In my spare time I am trying to learn new things about Distributed Systems and API Development.
