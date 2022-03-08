@@ -41,10 +41,10 @@ If you want to know more about me, you can find the links below:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
   ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
-  ![SQLite](https://img.shields.io/badge/-SQLite%20Native-333333?style=flat&logo=sqlite)
+  ![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![MongoDB](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 
 
