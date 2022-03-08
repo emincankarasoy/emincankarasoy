@@ -30,7 +30,7 @@ If you want to know more about me, you can find the links below:
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
   <a href="#" alt="Medium">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>  
 
 
