@@ -34,9 +34,9 @@ If you want to know more about me, you can find the links below:
 
 
 **Tools & Technologies**
-
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
+  
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
