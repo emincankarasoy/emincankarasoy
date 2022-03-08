@@ -50,9 +50,3 @@ If you want to know more about me, you can find the links below:
 
 
 
-## Github Statistics
-
-![Emincan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emincankarasoy&show_icons=true)        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emincankarasoy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=63D8DD)](https://git.io/streak-stats)
-
-
-
