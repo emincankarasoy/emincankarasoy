@@ -35,16 +35,16 @@ If you want to know more about me, you can find the links below:
 
 
 **Tools & Technologies** <br> <br>
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-6DB33F?style=for-the-badge&logo=android&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-  ![Maven](https://img.shields.io/badge/Maven-DD0031?style=for-the-badge&logo=apache&logoColor=white)
-  ![Gradle](https://img.shields.io/badge/Gradle-0175C2?style=for-the-badge&logo=gradle&logoColor=white)
-  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-6DB33F?style=flat&logo=android&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)
+  ![Maven](https://img.shields.io/badge/Maven-DD0031?style=flat&logo=apache&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-0175C2?style=flat&logo=gradle&logoColor=white)
+  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=flat&logo=firebase&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 
 
