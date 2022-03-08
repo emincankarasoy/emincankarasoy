@@ -38,7 +38,7 @@ If you want to know more about me, you can find the links below:
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![Jetpack](https://img.shields.io/badge/-Jetpack-333333?style=flat&logo=jetpack)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
