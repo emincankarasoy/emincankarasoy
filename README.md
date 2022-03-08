@@ -21,16 +21,16 @@ If you want to know more about me, you can find the links below:
 <br>  
 <p align="left">
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/gmail-gray?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
   <a href="#" alt="Stackoverflow">
-  <img src="https://img.shields.io/badge/stackoverflow-gray?style=for-the-badge&logo=stackoverflow"/></a>
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
-  <a href="#" alt="Hackerrank">
-  <img src="https://img.shields.io/badge/hackerrank-gray?style=for-the-badge&logo=hackerrank"/></a>
+  <a href="#" alt="Medium">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>  
 
 
