@@ -30,23 +30,21 @@ If you want to know more about me, you can find the links below:
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
   <a href="#" alt="Medium">
-  <img src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Medium-292929?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>  
 
 
 **Tools & Technologies**
-  
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
-  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
-  ![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache)
-  ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
-  ![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-6DB33F?style=for-the-badge&logo=android&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+  ![Maven](https://img.shields.io/badge/Maven-DD0031?style=for-the-badge&logo=apache&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-0175C2?style=for-the-badge&logo=gradle&logoColor=white)
+  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
