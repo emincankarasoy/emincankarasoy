@@ -32,6 +32,22 @@ If you want to know more about me, you can find the links below:
   <img src="https://img.shields.io/badge/hackerrank-gray?style=for-the-badge&logo=hackerrank"/></a>
 </p>  
 
+
+**Tools & Technologies**
+
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+
+
 ## Github Statistics
 
 
