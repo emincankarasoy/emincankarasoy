@@ -18,7 +18,6 @@ So far I have developed many small and medium Android Projects and shared some o
 If you want to know more about me, you can find the links below:
 </p>
   
-<br>  
 <p align="left">
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
