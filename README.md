@@ -1,4 +1,4 @@
-<h2 alighn="left">About Me</h2> <p align="right"><img src="https://komarev.com/ghpvc/?username=emincankarasoy&label=Visitors&color=0e75b6&style=flat" alt="emincankarasoy" /></p>
+<h2 alighn="left" display="inline">About Me</h2> <p align="right"><img src="https://komarev.com/ghpvc/?username=emincankarasoy&label=Visitors&color=0e75b6&style=flat" alt="emincankarasoy" /></p>
 
 <img src="https://i.hizliresim.com/4f6o5hb.png" min-width="100px" max-width="300px" height="250px" align="right" alt="Computador iuriCode">
 
