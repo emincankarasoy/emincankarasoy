@@ -1,4 +1,4 @@
-## About Me
+## About Me <p align="left"> <img src="https://komarev.com/ghpvc/?username=emincankarasoy&label=Visitors&color=0e75b6&style=flat" alt="emincankarasoy" /> </p>
 
 <img src="https://i.hizliresim.com/4f6o5hb.png" min-width="100px" max-width="300px" height="250px" align="right" alt="Computador iuriCode">
 
@@ -51,9 +51,7 @@ If you want to know more about me, you can find the links below:
 
 ## Github Statistics
 
-
 ![Emincan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emincankarasoy&show_icons=true)        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emincankarasoy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=63D8DD)](https://git.io/streak-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emincankarasoy&label=Visitors&color=0e75b6&style=flat" alt="emincankarasoy" /> </p>
 
 
