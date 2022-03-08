@@ -1,5 +1,8 @@
 ## About Me
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
 Emincan Karasoy is a computer engineering student who develops himself in software technologies, follows these technologies closely and is open to innovations. He is a creative, determined, motivated and extremely energetic person with a passion for creating real results on his own and with those around him.
 
 ## Contact Me
