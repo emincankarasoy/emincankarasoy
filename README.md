@@ -11,24 +11,21 @@ So far I have developed many small and medium Android Projects and shared some o
 </p>
 
 <p align="left">
-If you want to take a look at my work, you can find the links below:
+If you want to know more about me, you can find the links below:
 </p>
   
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/gmail-gray?style=for-the-badge&logo=gmail" /></a>
-
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logo=linkedin" /></a>
+  
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/gmail-gray?style=for-the-badge&logo=gmail" /></a>
 
   <a href="#" alt="Stackoverflow">
   <img src="https://img.shields.io/badge/stackoverflow-gray?style=for-the-badge&logo=stackoverflow"/></a>
 
   <a href="#" alt="Hackerrank">
   <img src="https://img.shields.io/badge/hackerrank-gray?style=for-the-badge&logo=hackerrank"/></a>
-
-  <a href="#" alt="Google Dev">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
 ## Github Statistics
