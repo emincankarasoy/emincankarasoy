@@ -7,7 +7,7 @@ Learn for a better future!
 </p>
 
 <p align="left">
-I am currently studying for a bachelor's degree in computer engineering and developing myself in Android Development. In my spare time I am trying to learn new things about Distributed Systems and API Development.
+I am currently studying for a bachelor's degree in computer engineering and developing myself in Android Development. In my spare time I am trying to learn new things about Distributed Systems and Backend Development.
 </p>
 
 <p align="left">
