@@ -1,6 +1,6 @@
 <h2 align="left">About Me <img src="https://komarev.com/ghpvc/?username=emincankarasoy&label=Visitors&color=success&style=flat" alt="emincankarasoy" align="right"/></h2>
 
-<img src="https://www.hizliresim.com/t5yhn7j.png" min-width="100px" max-width="300px" height="250px" align="right" alt="Computador iuriCode">
+<img src="https://i.hizliresim.com/t5yhn7j.png" min-width="100px" max-width="300px" height="250px" align="right" alt="Computador iuriCode">
 
 <p align="left">
 Learn for a better future!
