@@ -48,6 +48,9 @@ If you want to know more about me, you can find the links below:
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=flat&logo=firebase&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=flat&logo=kubernetes&logoColor=white)
+  
 
 
 
