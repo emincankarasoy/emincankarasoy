@@ -7,11 +7,11 @@ Learn for a better future!
 </p>
 
 <p align="left">
-I am currently studying for a bachelor's degree in computer engineering and developing myself in Android Development. In my spare time I am trying to learn new things about Distributed Systems and Backend Development.
+I am currently working as a Software Developer for DeFacto. I have experience in a variety of programming languages, including C#, Java, Golang and have a strong foundation in computer science principles. I enjoy the problem-solving aspect of software development and take pride in delivering high-quality code. 
 </p>
 
 <p align="left">
-So far I have developed many small and medium Android Projects and shared some of them on my github account. I have also participated in many software development competitions (eg Google People&Peace Hackathon).
+I am always looking for ways to improve my skills and stay up to date with the latest technology and trends in the field. In my free time, I enjoy staying up to date with the latest technology and trends in the field, and I also enjoy walking outside, playing violin and writing blog post.
 </p>
 
 <p align="left">
